@@ -1,1 +1,2 @@
-# Insurance-claim-Fraudualent-
+# Insurance-claim-Fraudualent
+Detecting and combating insurance claim fraud through innovative solutions.
